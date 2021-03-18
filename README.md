@@ -1,7 +1,7 @@
 # Ascii
 just for me to remember the ascii codes
 #
-|   Style     |  Color     |   Background  |
+|   Style     |  Text     |   Background  |
 | :---        | :---:      |          ---: |
 |  0 None     | 30 White   |  40 White             |
 |  1 **Bold** | 31 red     |  41 Red
@@ -14,5 +14,5 @@ just for me to remember the ascii codes
 
 * Just to remember the format: 
 ```py
-"\033[style;color;backgroundm"
+"\033[style;text;backgroundm"
 ```
